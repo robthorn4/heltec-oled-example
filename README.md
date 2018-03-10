@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A blank Mongoose OS app
 
 ## Overview
@@ -13,3 +14,7 @@ apps from scratch.
 <p align="center">
   <img src="https://mongoose-os.com/images/app1.gif" width="75%">
 </p>
+=======
+# heltec-oled-example
+Example of using the Heltec WiFi Kit 32 (LoRa) with Mongoose OS and VS-Code
+>>>>>>> 0de0cc49e6de48a9167b104191e20d5d799d6534

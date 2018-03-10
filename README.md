@@ -7,18 +7,18 @@ This is an example of how to learn by doing.  I've been a Microsoft stack develo
 <ul>
   <li>Get a development environment configured</li>
   <li>Configure that development to connect to a microcontorller</li>
-  <li>Write some code to display some text on a screen<li>
-  <li>Push that code to said microcontroller and see the text<li>
+  <li>Write some code to display some text on a screen</li>
+  <li>Push that code to said microcontroller and see the text</li>
 </ul>
 </p>
 <p>
 Now let me make some qualifying statements.  
 <ol>
-  <li>I've always used Visual Studio Enterprise in a Windows environment<li>
+  <li>I've always used Visual Studio Enterprise in a Windows environment</li>
   <li>I don't know the Mac/Linux environment</li>
   <li>Although I've done extensive work in C#, I've never done anything in C/C++</li>
-  <li>I have basic elecrtonics knowledge, maybe more than the layperson, but by no means an expert, or even advanced<li>
-  <li>Did I mention I don't know anything about embedded development?<li>
+  <li>I have basic elecrtonics knowledge, maybe more than the layperson, but by no means an expert, or even advanced</li>
+  <li>Did I mention I don't know anything about embedded development?</li>
 </ol>
 </p>
 
